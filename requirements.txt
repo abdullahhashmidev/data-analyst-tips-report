@@ -6,4 +6,4 @@ seaborn
 plotly 
 openpyxl
 scipy
-statsmoedels
+statsmodels
